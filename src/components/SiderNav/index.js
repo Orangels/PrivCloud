@@ -17,17 +17,17 @@ const menus = [
     //   {key: '/home/general/icon', title: '图标', icon: '',},
     // ]
   },
-  // {
-  //   title: '学生管理',
-  //   icon: 'bars',
-  //   // key: '/home/navigation',
-  //   key: '/student_info',
-  //   // subs: [
-  //   //   {key: '/home/navigation/dropdown', title: '下拉菜单', icon: ''},
-  //   //   {key: '/home/navigation/menu', title: '导航菜单', icon: ''},
-  //   //   {key: '/home/navigation/steps', title: '步骤条', icon: ''},
-  //   // ]
-  // },
+  {
+    title: '人员管理',
+    icon: 'bars',
+    // key: '/home/navigation',
+    key: '/student_info',
+    // subs: [
+    //   {key: '/home/navigation/dropdown', title: '下拉菜单', icon: ''},
+    //   {key: '/home/navigation/menu', title: '导航菜单', icon: ''},
+    //   {key: '/home/navigation/steps', title: '步骤条', icon: ''},
+    // ]
+  },
   // {
   //   title: '数据管理',
   //   icon: 'edit',

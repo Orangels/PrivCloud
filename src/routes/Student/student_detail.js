@@ -49,14 +49,14 @@ class Student_detail extends React.Component {
         }
         return (
             <div className='student_detail' >
-                <CustomBreadcrumb arr={[{title:'学生管理', to:'/student_info'}, '学生详情']}/>
-                <Card bordered={false} title='学生详情'  >
+                <CustomBreadcrumb arr={[{title:'人员管理', to:'/student_info'}, '人员详情']}/>
+                <Card bordered={false} title='人员详情'  >
                     <Tabs defaultActiveKey='1' tabPosition={'left'}
                           style={{height: 'auto' ,}}>
-                        <TabPane tab="学生配置" key="1" >
+                        <TabPane tab="人员配置" key="1" >
                             <Server_content_1 student_info={this.state.student_info} changeStudnetInfo={this.changeStudnetInfo}/>
                         </TabPane>
-                        <TabPane tab="学生信息" key="2" >
+                        <TabPane tab="人员信息" key="2" >
                             <Server_content_2 student_info={this.state.student_info} changeStudnetInfo={this.changeStudnetInfo}/>
                         </TabPane>
                     </Tabs>

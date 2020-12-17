@@ -608,10 +608,10 @@ class StudentInfo extends React.Component {
 
         return (
             <div>
-                <CustomBreadcrumb arr={['学生管理']}/>
-                <Card bordered={false} title='学生列表' style={{marginBottom: 10, minHeight: 440}} id='editTable'>
+                <CustomBreadcrumb arr={['人员管理']}/>
+                <Card bordered={false} title='人员列表' style={{marginBottom: 10, minHeight: 440}} id='editTable'>
                     <p>
-                        <Button onClick={this.jump.bind(this, 'student_info/add_student', {})}>添加同学</Button>
+                        <Button onClick={this.jump.bind(this, 'student_info/add_student', {})}>添加人员</Button>
                     </p>
                     <Table style={styles.tableStyle} components={components}  dataSource={this.state.data8}
                            columns={columns8}

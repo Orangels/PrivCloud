@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="852337e0-a31b-44b7-be2f-0014930d8a4c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/server_content_2.0e14c6d7.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/server_content_2.0e14c6d7.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Charts/Histogram_chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Charts/Histogram_chart.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/SiderNav/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SiderNav/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/Home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/Home/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/Student/student_detail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/Student/student_detail.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/Student/student_info.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/Student/student_info.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,10 +18,41 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/routes/Home/index.js">
+        <entry file="file://$PROJECT_DIR$/src/utils/url_config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            <state relative-caret-position="333">
+              <caret line="42" column="31" lean-forward="true" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/SiderNav/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/routes/Student/student_info.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="574">
+              <caret line="634" column="66" selection-start-line="634" selection-start-column="66" selection-end-line="634" selection-end-column="66" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+                <element signature="n#!!block;n#_onOk_24#0;n#StudentInfo#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/routes/Student/student_detail.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="181">
+              <caret line="51" column="79" selection-start-line="51" selection-start-column="79" selection-end-line="51" selection-end-column="79" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -36,42 +61,12 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Charts/Histogram_chart.js">
+        <entry file="file://$PROJECT_DIR$/src/routes/Home/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="182" column="28" lean-forward="true" selection-start-line="182" selection-start-column="28" selection-end-line="182" selection-end-column="28" />
+            <state relative-caret-position="39">
+              <caret line="64" column="49" lean-forward="true" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="57" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" column="14" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/SiderNav/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="30" column="6" lean-forward="true" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="true" current-in-tab="true">
-        <entry file="remoteDeploymentFS://&lt;9da2d836-542e-496d-9696-af43557e344b&gt;/home/user/Program/wiwide_project/LaMer_Web/src/components/Charts/Histogram_chart.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="199" column="26" selection-start-line="199" selection-start-column="26" selection-end-line="199" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#0#25#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,8 +85,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>socket.io</find>
-      <find>Tooltip</find>
       <find>Histogram_chart</find>
       <find>clore</find>
       <find>rangeValue</find>
@@ -118,6 +111,8 @@
       <find>SiderNav</find>
       <find>data8</find>
       <find>本周各</find>
+      <find>学生</find>
+      <find>学生管理</find>
       <find>student_chart_data</find>
       <find>学生</find>
     </findStrings>
@@ -169,7 +164,6 @@
         <option value="$PROJECT_DIR$/src/routes/Student/student_content_3.css" />
         <option value="$PROJECT_DIR$/src/routes/Student/student_content_2.less" />
         <option value="$PROJECT_DIR$/src/routes/Student/student_content_2.css" />
-        <option value="$PROJECT_DIR$/src/routes/Student/student_detail.js" />
         <option value="$PROJECT_DIR$/src/components/Charts/Generate_chart.js" />
         <option value="$PROJECT_DIR$/src/routes/Student/student_content_1.js" />
         <option value="$PROJECT_DIR$/src/routes/Server/server_content_2_tmp.js" />
@@ -202,7 +196,6 @@
         <option value="$PROJECT_DIR$/src/components/Charts/Echartstest.js" />
         <option value="$PROJECT_DIR$/src/routes/Model_Zoo/Detection.js" />
         <option value="$PROJECT_DIR$/src/routes/Model_Zoo/Classification.js" />
-        <option value="$PROJECT_DIR$/src/routes/Student/student_info.js" />
         <option value="$PROJECT_DIR$/src/components/Charts/chart_config.js" />
         <option value="$PROJECT_DIR$/src/routes/Index/index.js" />
         <option value="$PROJECT_DIR$/src/utils/url_config.js" />
@@ -212,8 +205,10 @@
         <option value="&lt;9da2d836-542e-496d-9696-af43557e344b&gt;/home/user/Program/wiwide_project/LaMer_Web/src/routes/Home/index.js" />
         <option value="$PROJECT_DIR$/src/routes/Home/index.js" />
         <option value="$PROJECT_DIR$/src/components/Charts/Histogram_chart.js" />
-        <option value="$PROJECT_DIR$/src/components/SiderNav/index.js" />
         <option value="&lt;9da2d836-542e-496d-9696-af43557e344b&gt;/home/user/Program/wiwide_project/LaMer_Web/src/components/Charts/Histogram_chart.js" />
+        <option value="$PROJECT_DIR$/src/components/SiderNav/index.js" />
+        <option value="$PROJECT_DIR$/src/routes/Student/student_info.js" />
+        <option value="$PROJECT_DIR$/src/routes/Student/student_detail.js" />
       </list>
     </option>
   </component>
@@ -244,31 +239,20 @@
             <path>
               <item name="PrivCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="PrivCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PrivCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PrivCloud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PrivCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PrivCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="PrivCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PrivCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="SiderNav" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PrivCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="PrivCloud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PrivCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PrivCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="Student" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -378,12 +362,12 @@
       <workItem from="1603700663515" duration="16000" />
       <workItem from="1604064944521" duration="1972000" />
       <workItem from="1608177724169" duration="1432000" />
-      <workItem from="1608179432978" duration="3768000" />
+      <workItem from="1608179432978" duration="5302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="462071000" />
+    <option name="totallyTimeSpent" value="463605000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -398,7 +382,7 @@
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18669528" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13876967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -412,12 +396,12 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32939634" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5081043" side_tool="true" weight="0.4711286" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4918957" visible="true" weight="0.30971128" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4918957" visible="true" weight="0.335958" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Remote Host" order="3" visible="true" weight="0.2074392" />
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.13090129" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
@@ -455,17 +439,6 @@
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes/Student/student_info.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="270" lean-forward="true" selection-start-line="270" selection-end-line="270" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-            <element signature="n#!!block;n#_onOk_24#0;n#StudentInfo#0" />
           </folding>
         </state>
       </provider>
@@ -616,16 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="62" column="20" lean-forward="true" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes/Student/student_detail.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -826,23 +789,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/utils/url_config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="48" column="41" lean-forward="true" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes/Home/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -862,8 +808,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/SiderNav/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="30" column="6" lean-forward="true" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        <state relative-caret-position="153">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes/Home/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="64" column="49" lean-forward="true" selection-start-line="64" selection-start-column="34" selection-end-line="64" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/url_config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="42" column="31" lean-forward="true" selection-start-line="42" selection-start-column="31" selection-end-line="42" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes/Student/student_info.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="634" column="66" selection-start-line="634" selection-start-column="66" selection-end-line="634" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+            <element signature="n#!!block;n#_onOk_24#0;n#StudentInfo#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes/Student/student_detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="51" column="79" selection-start-line="51" selection-start-column="79" selection-end-line="51" selection-end-column="79" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
