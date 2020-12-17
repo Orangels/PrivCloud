@@ -184,11 +184,20 @@ class Histogram_chart extends React.Component {
                           color={"name"}
                     >
                         <Label content={['name*total_hours', (name, total_hours) => `${total_hours}h`]}
+                               offset={15}
+                               textStyle= {{
+                                   textAlign: 'center', // 文本对齐方向，可取值为： start middle end
+                                   fill: '#404040', // 文本的颜色
+                                   fontSize: '12', // 文本大小
+                                   // fontWeight: 'bold', // 文本粗细
+                                   textBaseline: 'top' // 文本基准线，可取 top middle bottom，默认为middle
+                               }}
                                labelLine={{
                                    lineWidth: 1, // 线的粗细
                                    stroke: '#ff8800', // 线的颜色
                                    lineDash: [2, 2], // 虚线样式
-                               }} />
+                               }}
+                        />
                     </Geom>
                 </Chart>
             </div>

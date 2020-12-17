@@ -206,21 +206,21 @@ class Home extends React.Component {
           <Col span={12} style={{height:col_height}}>
             <div style={styles.col_div}>
               <span style={{marginLeft:20}}>
-                学生&nbsp;
-                <Tooltip title='本周同学运行服务器时长统计'>
+                人员&nbsp;
+                <Tooltip title='本周同事运行服务器时长统计'>
                   <Icon type='question-circle-o'/>
                 </Tooltip>
               </span>
               <Divider />
               <div style={styles.wave_wrap}>
-                <Tooltip title='今日所有同学使用服务器显卡总运行时间'>
+                <Tooltip title='今日所有同事使用服务器显卡总运行时间'>
                   <div style={{display:"flex", flexDirection:'column', alignItems:'center'}}>
                     <WaterWave type="circle" width={100} height={100} showText={this.state.server_hours_day}
                                rangeValue={this.state.server_hours_percent_day} />
                     <span>当日</span>
                   </div>
                 </Tooltip>
-                <Tooltip title='本周所有同学使用服务器显卡总运行时间'>
+                <Tooltip title='本周所有同事使用服务器显卡总运行时间'>
                   <div style={{display:"flex", flexDirection:'column', alignItems:'center'}}>
                     <WaterWave type="circle" width={100} height={100} showText={this.state.server_hours_week}
                                rangeValue={this.state.server_hours_percent_week} />
@@ -230,7 +230,7 @@ class Home extends React.Component {
               </div>
               <Divider />
               <Tag style={{marginTop:2, marginLeft:50, marginBottom:10, width:180}} color={'#87d068'}>
-                本周各同学运行服务器时长
+                本周各同事运行服务器时长
               </Tag>
               <Histogram_chart data={this.state.student_chart_data} cols={{
               }}

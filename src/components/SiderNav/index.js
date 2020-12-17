@@ -17,35 +17,35 @@ const menus = [
     //   {key: '/home/general/icon', title: '图标', icon: '',},
     // ]
   },
-  {
-    title: '学生管理',
-    icon: 'bars',
-    // key: '/home/navigation',
-    key: '/student_info',
-    // subs: [
-    //   {key: '/home/navigation/dropdown', title: '下拉菜单', icon: ''},
-    //   {key: '/home/navigation/menu', title: '导航菜单', icon: ''},
-    //   {key: '/home/navigation/steps', title: '步骤条', icon: ''},
-    // ]
-  },
-  {
-    title: '数据管理',
-    icon: 'edit',
-    // key: '/home/entry',
-    key: '/data_info',
-    // subs: [
-    //   {
-    //     key: '/home/entry/form',
-    //     title: '表单',
-    //     icon: '',
-    //     subs: [
-    //       {key: '/home/entry/form/basic-form', title: '基础表单', icon: ''},
-    //       {key: '/home/entry/form/step-form', title: '分步表单', icon: ''}
-    //     ]
-    //   },
-    //   {key: '/home/entry/upload', title: '上传', icon: ''},
-    // ]
-  },
+  // {
+  //   title: '学生管理',
+  //   icon: 'bars',
+  //   // key: '/home/navigation',
+  //   key: '/student_info',
+  //   // subs: [
+  //   //   {key: '/home/navigation/dropdown', title: '下拉菜单', icon: ''},
+  //   //   {key: '/home/navigation/menu', title: '导航菜单', icon: ''},
+  //   //   {key: '/home/navigation/steps', title: '步骤条', icon: ''},
+  //   // ]
+  // },
+  // {
+  //   title: '数据管理',
+  //   icon: 'edit',
+  //   // key: '/home/entry',
+  //   key: '/data_info',
+  //   // subs: [
+  //   //   {
+  //   //     key: '/home/entry/form',
+  //   //     title: '表单',
+  //   //     icon: '',
+  //   //     subs: [
+  //   //       {key: '/home/entry/form/basic-form', title: '基础表单', icon: ''},
+  //   //       {key: '/home/entry/form/step-form', title: '分步表单', icon: ''}
+  //   //     ]
+  //   //   },
+  //   //   {key: '/home/entry/upload', title: '上传', icon: ''},
+  //   // ]
+  // },
   {
     title: '模型库',
     icon: 'desktop',

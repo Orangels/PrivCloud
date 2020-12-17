@@ -6,127 +6,11 @@
       <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.9cf4ce4e.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.9cf4ce4e.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/0.d64ada7d.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/0.d64ada7d.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/1.c64a7f8f.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/1.c64a7f8f.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/10.444bfb42.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/10.444bfb42.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/11.bb12761e.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/11.bb12761e.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/12.54f617f0.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/12.54f617f0.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/13.fec9e721.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/13.fec9e721.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/14.0a8f893e.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/14.0a8f893e.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/15.f262f6f1.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/15.f262f6f1.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/16.9572840f.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/16.9572840f.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.6b16be9e.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.6b16be9e.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/3.2fbac736.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/3.2fbac736.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/4.43fd8c1d.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/4.43fd8c1d.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/5.1e727e7e.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/5.1e727e7e.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/6.860b1610.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/6.860b1610.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/7.0e304e30.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/7.0e304e30.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/8.5eb1819c.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/8.5eb1819c.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/9.65c7cfb9.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/9.65c7cfb9.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.a51ff593.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.a51ff593.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/service-worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/css/main.54e4e6de.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/css/main.54e4e6de.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/0.6c9ff8df.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/0.6c9ff8df.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/1.4f69ebb2.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/1.4f69ebb2.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/10.16e78b51.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/10.16e78b51.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/11.42f91483.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/11.42f91483.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/12.13521d32.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/12.13521d32.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/13.79f1611e.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/13.79f1611e.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/14.a0881fc7.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/14.a0881fc7.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/15.cd80108e.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/15.cd80108e.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/16.3c830ad7.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/16.3c830ad7.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/17.be483681.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/17.be483681.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/18.c8ccd603.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/18.c8ccd603.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/19.f9da89a0.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/19.f9da89a0.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/2.0d19e021.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/2.0d19e021.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/20.4ae2d3a4.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/20.4ae2d3a4.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/21.08822a9a.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/21.08822a9a.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/22.16bb08ab.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/22.16bb08ab.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/23.e72a21aa.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/23.e72a21aa.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/24.32684b50.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/24.32684b50.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/3.33a46789.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/3.33a46789.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/4.35c1d689.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/4.35c1d689.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/5.fc5c4115.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/5.fc5c4115.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/6.91dd8c65.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/6.91dd8c65.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/7.6e02d717.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/7.6e02d717.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/8.6da30edd.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/8.6da30edd.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/9.49bf9062.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/9.49bf9062.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/main.4373ee21.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/js/main.4373ee21.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/01.ef463859.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/02.a89690a9.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/03.12960527.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/04.541539c2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/04.7c01c20f.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/05.c57cde10.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/06.f0870606.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/07.5a959342.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/08.73f21b2b.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/09.1dccd44d.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/10.929b7508.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/11.4d9e81a8.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/12.cee35331.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/iconfont.29b498f6.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/iconfont.3411b0f5.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/static/media/iconfont.e0000474.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Charts/chart_config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Charts/chart_config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContentMain/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContentMain/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/CustomMenu/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CustomMenu/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/server_content_2.0e14c6d7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/server_content_2.0e14c6d7.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Charts/Histogram_chart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Charts/Histogram_chart.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/SiderNav/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/SiderNav/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/Student/student_info.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/Student/student_info.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/url_config.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/url_config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/Home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/Home/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -139,20 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/utils/url_config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="36" column="36" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/routes/Server/server_add.js">
+        <entry file="file://$PROJECT_DIR$/src/routes/Home/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="45" column="46" lean-forward="true" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="51" />
+            <state relative-caret-position="104">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
               <folding>
                 <element signature="e#0#25#0" expanded="true" />
               </folding>
@@ -161,12 +36,42 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/routes/Server/server_info.js">
+        <entry file="file://$PROJECT_DIR$/src/components/Charts/Histogram_chart.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="138" column="38" lean-forward="true" selection-start-line="138" selection-start-column="33" selection-end-line="138" selection-end-column="43" />
+            <state relative-caret-position="176">
+              <caret line="182" column="28" lean-forward="true" selection-start-line="182" selection-start-column="28" selection-end-line="182" selection-end-column="28" />
               <folding>
-                <element signature="e#0#25#0" expanded="true" />
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/SiderNav/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="151">
+              <caret line="30" column="6" lean-forward="true" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="true" current-in-tab="true">
+        <entry file="remoteDeploymentFS://&lt;9da2d836-542e-496d-9696-af43557e344b&gt;/home/user/Program/wiwide_project/LaMer_Web/src/components/Charts/Histogram_chart.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="313">
+              <caret line="199" column="26" selection-start-line="199" selection-start-column="26" selection-end-line="199" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -185,12 +90,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>UPLOAD_IMG_TMP</find>
-      <find>uploadButton</find>
-      <find>imageUrl</find>
-      <find>Upload_img</find>
-      <find>file</find>
-      <find>handleSubmit</find>
       <find>socket.io</find>
       <find>Tooltip</find>
       <find>Histogram_chart</find>
@@ -215,9 +114,14 @@
       <find>register</find>
       <find>ALL_SERVER</find>
       <find>ADD_SERVER</find>
+      <find>columns8</find>
+      <find>SiderNav</find>
+      <find>data8</find>
+      <find>本周各</find>
+      <find>student_chart_data</find>
+      <find>学生</find>
     </findStrings>
     <replaceStrings>
-      <replace>服务器</replace>
       <replace>'服务器 60'</replace>
       <replace>time</replace>
       <replace>value: randomNum(0,10)*10</replace>
@@ -247,6 +151,7 @@
       <replace>education</replace>
       <replace>selectDataBase</replace>
       <replace>this.state.rangeValue</replace>
+      <replace>同事</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/src/components/WaterWave</dir>
@@ -258,9 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/routes/Student/student_2.js" />
-        <option value="$PROJECT_DIR$/src/routes/Server/server_content_1.js" />
-        <option value="$PROJECT_DIR$/src/components/Charts/Step.js" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/routes/Server/server_info_data.js" />
         <option value="$PROJECT_DIR$/src/routes/Student/student_content_3.less" />
@@ -290,14 +192,11 @@
         <option value="$PROJECT_DIR$/src/components/ContentMain/index_auth_1.js" />
         <option value="$PROJECT_DIR$/src/routes/Server/server_info.js" />
         <option value="$PROJECT_DIR$/src/routes/Home/Home_auth_1.js" />
-        <option value="$PROJECT_DIR$/src/components/Charts/Histogram_chart.js" />
-        <option value="$PROJECT_DIR$/src/routes/Home/index.js" />
         <option value="$PROJECT_DIR$/src/routes/Student/student_add.js" />
         <option value="$PROJECT_DIR$/src/routes/Model_Zoo/model_zoo.css" />
         <option value="$PROJECT_DIR$/src/routes/Model_Zoo/data/columns_classification.js" />
         <option value="$PROJECT_DIR$/src/data/Model_Zoo.js" />
         <option value="$PROJECT_DIR$/src/data/Model_Zoo_det.js" />
-        <option value="$PROJECT_DIR$/src/components/SiderNav/index.js" />
         <option value="$PROJECT_DIR$/src/components/ContentMain/index.js" />
         <option value="$PROJECT_DIR$/src/components/CustomMenu/index.js" />
         <option value="$PROJECT_DIR$/src/components/Charts/Echartstest.js" />
@@ -309,6 +208,12 @@
         <option value="$PROJECT_DIR$/src/utils/url_config.js" />
         <option value="$PROJECT_DIR$/src/routes/Login/index.js" />
         <option value="$PROJECT_DIR$/src/routes/Login/LoginForm.js" />
+        <option value="&lt;9da2d836-542e-496d-9696-af43557e344b&gt;/home/user/Program/wiwide_project/LaMer_Web/src/components/SiderNav/index.js" />
+        <option value="&lt;9da2d836-542e-496d-9696-af43557e344b&gt;/home/user/Program/wiwide_project/LaMer_Web/src/routes/Home/index.js" />
+        <option value="$PROJECT_DIR$/src/routes/Home/index.js" />
+        <option value="$PROJECT_DIR$/src/components/Charts/Histogram_chart.js" />
+        <option value="$PROJECT_DIR$/src/components/SiderNav/index.js" />
+        <option value="&lt;9da2d836-542e-496d-9696-af43557e344b&gt;/home/user/Program/wiwide_project/LaMer_Web/src/components/Charts/Histogram_chart.js" />
       </list>
     </option>
   </component>
@@ -339,20 +244,31 @@
             <path>
               <item name="PrivCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="PrivCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PrivCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PrivCloud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PrivCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="PrivCloud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PrivCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PrivCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="SiderNav" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="PrivCloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="PrivCloud" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="routes" type="462c0819:PsiDirectoryNode" />
-              <item name="Server" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -362,7 +278,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
@@ -461,37 +377,47 @@
       <workItem from="1603091392282" duration="2754000" />
       <workItem from="1603700663515" duration="16000" />
       <workItem from="1604064944521" duration="1972000" />
-      <workItem from="1608177724169" duration="1248000" />
+      <workItem from="1608177724169" duration="1432000" />
+      <workItem from="1608179432978" duration="3768000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="458119000" />
+    <option name="totallyTimeSpent" value="462071000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24594785" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18669528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32939634" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32939634" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32939634" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5081043" side_tool="true" weight="0.4711286" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4918957" visible="true" weight="0.32283464" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4918957" visible="true" weight="0.30971128" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" weight="0.19027181" />
+      <window_info active="true" anchor="right" id="Remote Host" order="3" visible="true" weight="0.2074392" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
@@ -520,43 +446,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/routes/Model_Zoo/Classification.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="102" column="172" selection-start-line="102" selection-start-column="172" selection-end-line="102" selection-end-column="172" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes/Model_Zoo/Detection.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="107" column="15" selection-start-line="107" selection-start-column="15" selection-end-line="107" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes/Student/student_add.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="231" column="36" selection-start-line="231" selection-start-column="23" selection-end-line="231" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/bg/login_bg.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -659,13 +548,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="47" column="26" lean-forward="true" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/routes/Entry/FormDemo/store.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -743,16 +625,6 @@
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Charts/Histogram_chart.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1835">
-          <caret line="155" column="37" selection-start-line="155" selection-start-column="37" selection-end-line="155" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -844,20 +716,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/SiderNav/index_auth_1.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/SiderNav/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="56" column="37" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/utils.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
@@ -889,36 +747,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes/Index/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="64" column="21" lean-forward="true" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routes/Home/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2293">
-          <caret line="225" column="83" selection-start-line="225" selection-start-column="83" selection-end-line="225" selection-end-column="83" />
-          <folding>
-            <element signature="e#0#25#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/routes/Login/LoginForm.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1365">
@@ -929,10 +757,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SiderNav/index_auth_1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes/Index/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="73" column="31" selection-start-line="73" selection-start-column="31" selection-end-line="73" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#225#265#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/build.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/routes/Server/server_info.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="138" column="38" lean-forward="true" selection-start-line="138" selection-start-column="33" selection-end-line="138" selection-end-column="43" />
+        <state relative-caret-position="304">
+          <caret line="146" column="34" selection-start-line="146" selection-start-column="23" selection-end-line="146" selection-end-column="34" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
@@ -941,8 +818,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/routes/Server/server_add.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="45" column="46" lean-forward="true" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="51" />
+        <state relative-caret-position="115">
+          <caret line="45" column="48" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="51" />
           <folding>
             <element signature="e#0#25#0" expanded="true" />
           </folding>
@@ -951,8 +828,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/url_config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="36" column="36" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="36" />
+        <state relative-caret-position="194">
+          <caret line="48" column="41" lean-forward="true" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routes/Home/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Charts/Histogram_chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="182" column="28" lean-forward="true" selection-start-line="182" selection-start-column="28" selection-end-line="182" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SiderNav/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="30" column="6" lean-forward="true" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
         </state>
       </provider>
     </entry>
